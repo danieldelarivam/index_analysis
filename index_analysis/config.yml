@@ -1,0 +1,3 @@
+options:
+  # you can choose between "yahoo" and "google", "tws" e "bla"
+  - market_implementation: "tws"
